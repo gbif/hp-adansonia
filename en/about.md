@@ -2,7 +2,7 @@
 permalink: about
 lang-ref: about
 title: About
-background: /assets/images/placeholders/rocks.png
+background: /assets/images/placeholders/acalypha_gillespieae_1258001892.jpg
 imageLicense:
 height: 70vh
 ---
