@@ -2,8 +2,8 @@
 permalink: about
 lang-ref: about
 title: About
-background: /assets/images/placeholders/acalypha_gillespieae_1258001892.jpg
-imageLicense:
+background: /assets/images/placeholders/cypripedium_acaule.jpg
+imageLicense: _Cypripedium acaule_ Aiton. Photo Marc Pignal.
 height: 70vh
 ---
 [Adansonia](https://sciencepress.mnhn.fr/en/periodiques/adansonia) is a fully refereed, international, electronic open access journal in botanical research devoted to the inventory, analysis and interpretation of vascular plants biodiversity, and covering subjects such as systematics and related fields: morphology, anatomy, biology, ecology, phylogeny, biogeography, etc.
