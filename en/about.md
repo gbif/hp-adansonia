@@ -12,7 +12,7 @@ It provides immediate free open access to its content in order to support and en
 
 ### Journal history
 
-Adansonia, série 3 is the continuation of the [Bulletin du Muséum national d'Histoire naturelle, 4<sup>ème</sup> série – section B, Adansonia : Botanique, phytochimie](https://sciencepress.mnhn.fr/en/periodiques/bulletin-du-museum-national-d-histoire-naturelle-4eme-serie-section-b-adansonia-botanique-phytochimie) (1981-1996). The 1<sup>st</sup> series corresponds to Adansonia, recueil périodique d'observations botaniques (1860-1879); the 2<sup>nd</sup> series corresponds to Adansonia, nouvelle série (1961-1981). From 2018, Adansonia is published online only with a continuous flow of publication (fast-track).
+Adansonia, série 3 is the continuation of the [Bulletin du Muséum national d'Histoire naturelle, 4<sup>ème</sup> série – section B, Adansonia : Botanique, phytochimie](https://sciencepress.mnhn.fr/en/periodiques/bulletin-du-museum-national-d-histoire-naturelle-4eme-serie-section-b-adansonia-botanique-phytochimie) (1981-1996). The 1<sup>st</sup> series corresponds to [Adansonia, recueil périodique d'observations botaniques]() (1860-1879); the 2<sup>nd</sup> series corresponds to [Adansonia, nouvelle série]() (1961-1981). From 2018, Adansonia is published online only with a continuous flow of publication (fast-track).
 
 ### Journal data
 
