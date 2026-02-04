@@ -23,7 +23,7 @@ title: Adansonia # the title of your site should go here
 email: adan@sciencepress.fr
 description: Adansonia GBIF-hosted portal
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://adansonia.hp.gbif.org/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://data.adansonia.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Publi_MNHN # if you have an account you want to link to. Else comment this line out
 facebook_username: PublicationsMuseum
 instagram_username: publimnhn
